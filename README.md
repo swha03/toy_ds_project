@@ -1,2 +1,3 @@
 # toy_ds_project
 project creation date: 10.04.2025
+author: Seungwoo Ha
